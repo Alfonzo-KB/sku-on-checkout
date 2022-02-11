@@ -1,2 +1,4 @@
 # sku-on-checkout
-a wordpress plugin that adds product skus to the cart and checkout pages.
+A wordpress plugin that simply adds product skus to the cart and checkout pages.
+
+Feel free to add this to your site, no credit necessary.
